@@ -1,2 +1,2 @@
-# drum-life-game-privacy-policy
-Privacy Policy of "Drum Life Game."
+# Drum Life Game Privacy Policy
+This repository maintains a website that describes the privacy policy of the application "Drum Life Game."
